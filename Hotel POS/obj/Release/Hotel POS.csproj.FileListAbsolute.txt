@@ -1,0 +1,55 @@
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\bin\Release\Hotel POS.exe.config
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\bin\Release\Hotel POS.exe
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\bin\Release\Hotel POS.pdb
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\bin\Release\MySql.Data.dll
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\bin\Release\MySqlBackup.dll
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\bin\Release\V2.dll
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\bin\Release\ZedGraph.dll
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel POS.csprojResolveAssemblyReference.cache
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.About.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.AddAccount.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.Categories.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.ChangePrices.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.DataBase.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.DefineAccounts.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.EmailSender.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.EndDay.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.Exit.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.FinanceStatus.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.HotelMenu.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.ItemCategories.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.ItemStatus.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.KitchenStock.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.Login.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.LoginLog.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.Menus.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.NewMenu.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.NewOrder.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.NewStock.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.OpeningBalance.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.OrderReport.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.Orders.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.OrdersApproval.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.POSMenu.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.Properties.Resources.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.PurchaseHistory.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.PurchaseLogReport.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.SalesChart.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.SalesReport.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.Shifts.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.Splash.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.StockReport.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.Suppliers.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.SuppliersReport.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.Tables.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.TransferMoney.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.UpdateStock.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.ViewHotelMenu.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.ViewOpeningBalance.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.ViewUsedStock.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.Workers.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel_POS.WorkersReport.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel POS.csproj.GenerateResource.Cache
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel POS.exe
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Hotel POS\Hotel POS\obj\Release\Hotel POS.pdb

@@ -1,0 +1,71 @@
+E:\My Creations\Hotel POS\Hotel POS\bin\x86\Hotel POS.exe.config
+E:\My Creations\Hotel POS\Hotel POS\bin\x86\Hotel POS.exe
+E:\My Creations\Hotel POS\Hotel POS\bin\x86\Hotel POS.pdb
+E:\My Creations\Hotel POS\Hotel POS\bin\x86\Bunifu.Core.dll
+E:\My Creations\Hotel POS\Hotel POS\bin\x86\Bunifu_UI_v1.5.3.dll
+E:\My Creations\Hotel POS\Hotel POS\bin\x86\MySql.Data.dll
+E:\My Creations\Hotel POS\Hotel POS\bin\x86\MySqlBackup.dll
+E:\My Creations\Hotel POS\Hotel POS\bin\x86\Bunifu_UI_v1.5.3.xml
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel POS.csprojAssemblyReference.cache
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.About.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.AddAccount.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.Categories.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.categoriesmenu.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.ChangePrices.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.DataBase.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.DefineAccounts.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.EmailSender.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.EndDay.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.Exit.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.FinanceStatus.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.HotelMenu.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.item.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.ItemCategories.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.ItemStatus.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.KitchenStock.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.Login.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.LoginLog.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.Menu.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.Menus.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.NewMenu.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.NewOrder.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.NewStock.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.OpeningBalance.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.OrderReport.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.Orders.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.OrdersApproval.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.POSMain.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.Properties.Resources.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.PurchaseHistory.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.PurchaseLogReport.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.SalesReport.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.Shifts.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.Splash.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.StockReport.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.summaryitems.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.Suppliers.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.SuppliersReport.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.Tables.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.TestPOS.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.TransferMoney.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.UpdateStock.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.ViewHotelMenu.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.ViewOpeningBalance.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.ViewUsedStock.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.Workers.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.WorkersReport.resources
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel POS.csproj.GenerateResource.cache
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel POS.csproj.CoreCompileInputs.cache
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel POS.csproj.CopyComplete
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel POS.exe
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel POS.pdb
+E:\My Creations\Hotel POS\Hotel POS\bin\x86\LiveCharts.dll
+E:\My Creations\Hotel POS\Hotel POS\bin\x86\LiveCharts.WinForms.dll
+E:\My Creations\Hotel POS\Hotel POS\bin\x86\LiveCharts.Wpf.dll
+E:\My Creations\Hotel POS\Hotel POS\bin\x86\LiveCharts.pdb
+E:\My Creations\Hotel POS\Hotel POS\bin\x86\LiveCharts.xml
+E:\My Creations\Hotel POS\Hotel POS\bin\x86\LiveCharts.WinForms.pdb
+E:\My Creations\Hotel POS\Hotel POS\bin\x86\LiveCharts.WinForms.xml
+E:\My Creations\Hotel POS\Hotel POS\bin\x86\LiveCharts.Wpf.pdb
+E:\My Creations\Hotel POS\Hotel POS\bin\x86\LiveCharts.Wpf.xml
+E:\My Creations\Hotel POS\Hotel POS\obj\x86\Hotel_POS.Sample.resources
